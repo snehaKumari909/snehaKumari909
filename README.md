@@ -1,18 +1,49 @@
-# 💫 About Me:
-🔭 I’m currently working on<br>MERN stack projects (React, Node.js, Express, MongoDB) and improving backend architecture & APIs<br><br>👯 I’m looking to collaborate on<br>Open-source projects, MERN-based web apps, and beginner-friendly system design projects<br><br>🤝 I’m looking for help with<br>Advanced DSA problems, system design fundamentals, and real-world project best practices<br><br>🌱 I’m currently learning<br>Data Structures & Algorithms, React.js (advanced patterns), and backend optimization<br><br>💬 Ask me about<br>DSA preparation, MERN development, Git/GitHub, project building for placements<br><br>⚡ Fun fact<br>I enjoy turning complex problems into clean, simple code and tracking my progress daily 🚀
+# Hi, I'm Sneha 👋
 
+I'm a Computer Science graduate focused on full-stack web development. I enjoy building responsive web applications and working on backend APIs, authentication, databases, and real-world application workflows.
 
-## 🌐 Socials:
-[![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/brushlove.sneha) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/sneha-kumari-728a95325/) [![Pinterest](https://img.shields.io/badge/Pinterest-%23E60023.svg?logo=Pinterest&logoColor=white)](https://pinterest.com/snehayadav7124) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:snehak05093@gmail.com) 
+## 🚀 Tech Stack
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![HTML5](https://img.shields.io/badge/html5-%23E34F26.svg?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/css3-%231572B6.svg?style=for-the-badge&logo=css3&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![TailwindCSS](https://img.shields.io/badge/tailwindcss-%2338B2AC.svg?style=for-the-badge&logo=tailwind-css&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-%234ea94b.svg?style=for-the-badge&logo=mongodb&logoColor=white) ![Figma](https://img.shields.io/badge/figma-%23F24E1E.svg?style=for-the-badge&logo=figma&logoColor=white) ![NodeJS](https://img.shields.io/badge/node.js-6DA55F?style=for-the-badge&logo=node.js&logoColor=white) ![Express.js](https://img.shields.io/badge/express.js-%23404d59.svg?style=for-the-badge&logo=express&logoColor=%2361DAFB) ![Render](https://img.shields.io/badge/Render-%46E3B7.svg?style=for-the-badge&logo=render&logoColor=white)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.vercel.app/api?username=snehaKumari909&theme=dark&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://nirzak-streak-stats.vercel.app/?user=snehaKumari909&theme=dark&hide_border=false)<br/>
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=snehaKumari909&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+**Languages:** Java, JavaScript
 
----
-[![](https://visitcount.itsvg.in/api?id=snehaKumari909&icon=0&color=0)](https://visitcount.itsvg.in)
+**Frontend:** React.js, HTML5, CSS3, Tailwind CSS, Vite
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+**Backend:** Node.js, Express.js, REST APIs, JWT
+
+**Databases:** MongoDB, MySQL
+
+**Tools:** Git, GitHub, Postman, Render
+
+**Core CS:** Data Structures & Algorithms, OOP, DBMS, Operating Systems
+
+## 📌 Featured Projects
+
+### TasteHub — Online Food Ordering System
+
+Full-stack food ordering application built with React.js, Node.js, Express.js, MongoDB, and Tailwind CSS.
+
+* JWT-based authentication and authorization
+* RESTful backend APIs
+* Cart, wishlist, and order workflows
+* Responsive and reusable React components
+
+### Corporate Training LMS
+
+Full-stack Learning Management System built using React.js, Node.js, Express.js, and MongoDB.
+
+* JWT-based authentication
+* Role-based access control
+* Course management workflows
+* RESTful backend APIs
+
+## 🌱 Currently Learning
+
+* TypeScript
+* PostgreSQL
+* Advanced backend development
+* Data Structures & Algorithms
+
+## 🔗 Connect With Me
+
+* [LinkedIn](https://www.linkedin.com/in/sneha-kumari-728a95325/)
+* [Email](mailto:snehak05093@gmail.com)
